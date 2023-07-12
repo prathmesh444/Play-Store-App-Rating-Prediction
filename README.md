@@ -3,6 +3,9 @@ This project uses machine learning to predict the rating of an app on the Google
 The project first cleans and preprocesses the data, then it trains and evaluates several different machine learning models.
 The best model, XGBoost Classifier, achieves an accuracy of 75.85%.
 
+# What's unique
+This code is interesting because it shows how to use a variety of machine learning models to solve a real-world problem. The code is also well-documented and easy to follow, making it a valuable resource for anyone who is interested in learning more about machine learning.👨🏼‍💻
+
 # Summary
 * 🤖 Machine learning is used to predict the rating of an app.
 * 📈 Data is cleaned and preprocessed before training the models.
